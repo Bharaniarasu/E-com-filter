@@ -1,0 +1,30 @@
+
+.cards{
+ margin:2rem;
+opacity:0.9;
+float:left;
+
+
+}
+.cards-link{
+  text-decoration:none;
+}
+.cards:hover{
+  opacity:1;
+  
+  }
+.cards-img{
+height:20rem;
+padding:2rem;
+opacity:0.9;
+}
+.cards-img:hover{
+opacity:1;
+}
+
+.cards-title{
+  color:black;
+}
+.cards-price{
+  color:black;
+}
